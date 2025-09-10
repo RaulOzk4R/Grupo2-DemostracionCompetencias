@@ -1,6 +1,7 @@
 #  Sky Box - Sistema de Gestión de Cine
 
-![Portada Cine](portada.png)
+![Portada Cine](img/portada.jpg)
+
 
 ---
 
@@ -41,7 +42,8 @@ El proyecto está implementado en **C# con Programación Orientada a Objetos (PO
 ---
 
 ##  Estructura de clases
-![Diagrama de Clases](read.png)
+![Diagrama de Clases](img/readm.png)
+
 
 > El cine se modela con un diseño jerárquico:  
 > **Cinema → Sala → Funciones → Asientos/Boletos**.  
