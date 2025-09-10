@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UCATEC\\ESTRUCTURA DE DATOS I\\CinemaUcatec\\CinemaUcatec.csproj": {}
+    "C:\\Users\\RAUL\\Ucatec\\estructura-datos-2\\Grupo2-DemostracionCompetencias\\protocinema\\CinemaUcatec.csproj": {}
   },
   "projects": {
-    "D:\\UCATEC\\ESTRUCTURA DE DATOS I\\CinemaUcatec\\CinemaUcatec.csproj": {
+    "C:\\Users\\RAUL\\Ucatec\\estructura-datos-2\\Grupo2-DemostracionCompetencias\\protocinema\\CinemaUcatec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UCATEC\\ESTRUCTURA DE DATOS I\\CinemaUcatec\\CinemaUcatec.csproj",
+        "projectUniqueName": "C:\\Users\\RAUL\\Ucatec\\estructura-datos-2\\Grupo2-DemostracionCompetencias\\protocinema\\CinemaUcatec.csproj",
         "projectName": "CinemaUcatec",
-        "projectPath": "D:\\UCATEC\\ESTRUCTURA DE DATOS I\\CinemaUcatec\\CinemaUcatec.csproj",
+        "projectPath": "C:\\Users\\RAUL\\Ucatec\\estructura-datos-2\\Grupo2-DemostracionCompetencias\\protocinema\\CinemaUcatec.csproj",
         "packagesPath": "C:\\Users\\RAUL\\.nuget\\packages\\",
-        "outputPath": "D:\\UCATEC\\ESTRUCTURA DE DATOS I\\CinemaUcatec\\obj\\",
+        "outputPath": "C:\\Users\\RAUL\\Ucatec\\estructura-datos-2\\Grupo2-DemostracionCompetencias\\protocinema\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

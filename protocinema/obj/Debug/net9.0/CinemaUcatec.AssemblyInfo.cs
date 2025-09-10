@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CinemaUcatec")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5c47d5abd434707ef79e23e91a11fea246c8053")]
 [assembly: System.Reflection.AssemblyProductAttribute("CinemaUcatec")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CinemaUcatec")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

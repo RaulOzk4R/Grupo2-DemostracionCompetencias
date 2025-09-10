@@ -12,3 +12,18 @@ D:\UCATEC\ESTRUCTURA DE DATOS I\CinemaUcatec\obj\Debug\net9.0\refint\CinemaUcate
 D:\UCATEC\ESTRUCTURA DE DATOS I\CinemaUcatec\obj\Debug\net9.0\CinemaUcatec.pdb
 D:\UCATEC\ESTRUCTURA DE DATOS I\CinemaUcatec\obj\Debug\net9.0\CinemaUcatec.genruntimeconfig.cache
 D:\UCATEC\ESTRUCTURA DE DATOS I\CinemaUcatec\obj\Debug\net9.0\ref\CinemaUcatec.dll
+C:\Users\RAUL\Ucatec\estructura-datos-2\Grupo2-DemostracionCompetencias\protocinema\bin\Debug\net9.0\CinemaUcatec.exe
+C:\Users\RAUL\Ucatec\estructura-datos-2\Grupo2-DemostracionCompetencias\protocinema\bin\Debug\net9.0\CinemaUcatec.deps.json
+C:\Users\RAUL\Ucatec\estructura-datos-2\Grupo2-DemostracionCompetencias\protocinema\bin\Debug\net9.0\CinemaUcatec.runtimeconfig.json
+C:\Users\RAUL\Ucatec\estructura-datos-2\Grupo2-DemostracionCompetencias\protocinema\bin\Debug\net9.0\CinemaUcatec.dll
+C:\Users\RAUL\Ucatec\estructura-datos-2\Grupo2-DemostracionCompetencias\protocinema\bin\Debug\net9.0\CinemaUcatec.pdb
+C:\Users\RAUL\Ucatec\estructura-datos-2\Grupo2-DemostracionCompetencias\protocinema\obj\Debug\net9.0\CinemaUcatec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAUL\Ucatec\estructura-datos-2\Grupo2-DemostracionCompetencias\protocinema\obj\Debug\net9.0\CinemaUcatec.AssemblyInfoInputs.cache
+C:\Users\RAUL\Ucatec\estructura-datos-2\Grupo2-DemostracionCompetencias\protocinema\obj\Debug\net9.0\CinemaUcatec.AssemblyInfo.cs
+C:\Users\RAUL\Ucatec\estructura-datos-2\Grupo2-DemostracionCompetencias\protocinema\obj\Debug\net9.0\CinemaUcatec.csproj.CoreCompileInputs.cache
+C:\Users\RAUL\Ucatec\estructura-datos-2\Grupo2-DemostracionCompetencias\protocinema\obj\Debug\net9.0\CinemaUcatec.sourcelink.json
+C:\Users\RAUL\Ucatec\estructura-datos-2\Grupo2-DemostracionCompetencias\protocinema\obj\Debug\net9.0\CinemaUcatec.dll
+C:\Users\RAUL\Ucatec\estructura-datos-2\Grupo2-DemostracionCompetencias\protocinema\obj\Debug\net9.0\refint\CinemaUcatec.dll
+C:\Users\RAUL\Ucatec\estructura-datos-2\Grupo2-DemostracionCompetencias\protocinema\obj\Debug\net9.0\CinemaUcatec.pdb
+C:\Users\RAUL\Ucatec\estructura-datos-2\Grupo2-DemostracionCompetencias\protocinema\obj\Debug\net9.0\CinemaUcatec.genruntimeconfig.cache
+C:\Users\RAUL\Ucatec\estructura-datos-2\Grupo2-DemostracionCompetencias\protocinema\obj\Debug\net9.0\ref\CinemaUcatec.dll
